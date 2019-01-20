@@ -1,0 +1,23 @@
+.form {
+    width: 100%;
+}
+
+#message {
+    height: 500px;
+    border: #dddddd solid 1px;
+}
+
+#submit {
+    padding: 15px;
+    color: white;
+    background-color: #4aaaa5;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#submit {
+    color: white;
+    background-color: #4aaaa5;
+    width: 250px;
+    text-decoration: none;
+}
